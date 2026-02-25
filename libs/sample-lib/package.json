@@ -1,0 +1,17 @@
+{
+  "name": "@autospace/sample-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "private": true,
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.29.3",
+  "dependencies": {
+    "@autospace/sample-lib": "workspace:*"
+  }
+}
